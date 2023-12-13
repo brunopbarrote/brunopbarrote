@@ -2,7 +2,7 @@
 
 Welcome to my Github profile. 
 
-- 🔭 I’m currently work as .NET Leader at Squadra.
+- 🔭 I’m currently working as .NET Leader at BMG Money.
 - 📫 How to reach me: brunopbarrote@hotmail.com
 - 💬 Ask me about: .NET, Microservices, Clean architecture, SOLID and so.
 
